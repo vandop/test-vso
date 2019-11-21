@@ -1,6 +1,6 @@
 {
 	"name": "Azure Functions & Node.js 10",
-	"dockerFile": "Dockerfile",
+	"image": "mcr.microsoft.com/azure-functions/node:2.0",
 	"appPort": 7071,
 
 	// Use 'settings' to set *default* container specific settings.json values on container create. 
